@@ -1,0 +1,18 @@
+//booststrap
+@import '~bootstrap/scss/bootstrap';
+
+//welcome-page
+@import 'styles/welcome';
+
+
+
+body {
+    background-color: #1d1d1d;
+    height: 100vh;
+    position: relative;
+}
+
+body a {
+    text-align: center;
+    color:#fff;
+}
